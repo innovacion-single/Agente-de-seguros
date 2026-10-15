@@ -1,0 +1,7 @@
+{
+  "name": "asesor-seguros",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asesor de Seguros de Single Broker: chat para consultar pólizas.",
+  "engines": { "node": ">=20" }
+}
